@@ -1,0 +1,24 @@
+# Awesome Job Boards for Taiwan [![Build Status](https://api.travis-ci.org/freelancer-tw/awesome-job-boards-taiwan.svg?branch=master)](https://travis-ci.org/freelancer-tw/awesome-job-boards-taiwan)
+
+A curated list of amazingly awesome job resources and shiny things.
+
+## Table of Contents
+- [Taiwan Job Board 國內工作列表](#taiwan-job-board)
+- [INTL Job Board 國外工作列表](#intl-job-board)
+- [Freelance](#taiwan-freelance-jobs)
+- [Tools](#tools)
+
+## Taiwan job board
+*找工作*
+* [Frontend jobs board](https://github.com/f2etw/jobs)
+
+## INTL job board 
+*國外工作列表*
+* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+* [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
+
+## Taiwan Freelance Jobs
+* [awesome-freelancer-taiwan](https://github.com/freelancer-tw/awesome-freelancer-taiwan) - 台灣自由工作者資源
+
+## Tools
+* [求職天眼通](https://github.com/abalone0204/Clairvoyance) - Chrome Extension 讓你可以透過瀏覽器直接討論職缺.
