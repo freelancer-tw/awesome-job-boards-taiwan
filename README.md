@@ -11,6 +11,7 @@ A curated list of amazingly awesome job resources and shiny things.
 ## Taiwan job board
 *找工作*
 * [Frontend jobs board](https://github.com/f2etw/jobs)
+* [nodejs-tw](https://github.com/nodejs-tw/jobs/issues)
 
 ## INTL job board 
 *國外工作列表*
