@@ -17,6 +17,7 @@ A curated list of amazingly awesome job resources and shiny things.
 *國外工作列表*
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
+* [remoteok](https://remoteok.io/)
 
 ## Taiwan Freelance Jobs
 * [awesome-freelancer-taiwan](https://github.com/freelancer-tw/awesome-freelancer-taiwan) - 台灣自由工作者資源
