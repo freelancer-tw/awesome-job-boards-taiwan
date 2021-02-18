@@ -12,7 +12,6 @@ A curated list of amazingly awesome job resources and shiny things.
 *找工作*
 * [Frontend jobs board](https://github.com/f2etw/jobs)
 * [nodejs-tw](https://github.com/nodejs-tw/jobs/issues)
-* [Inside](https://jobs.inside.com.tw) - <img height="10" src="http://www.inside.com.tw/wp-content/themes/inside/images/logo.png?1462617980">
 
 ## INTL job board 
 *國外工作列表*
