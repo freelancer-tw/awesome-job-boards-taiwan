@@ -17,7 +17,7 @@ A curated list of amazingly awesome job resources and shiny things.
 *國外工作列表*
 * [Career Vault](https://careervault.io/)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
-* [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
+* [Niche Job Boards](https://github.com/tramcar/awesome-job-boards)
 * [remoteok.io](https://remoteok.io/)
 * [workingremote.io](https://workingremote.io/)
 
