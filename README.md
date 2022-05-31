@@ -29,6 +29,7 @@ A curated list of amazingly awesome job resources and shiny things.
 * [Javascript Algorithm](http://thatjsdude.com/interview/js1.html)
 * [bestinterviewquestion](https://www.bestinterviewquestion.com/)
 * [Linkedin](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+* [What Happens](https://github.com/skyline75489/what-happens-when-zh_CN)
 
 ## Tools
 * [求職天眼通](https://github.com/abalone0204/Clairvoyance) - Chrome Extension 讓你可以透過瀏覽器直接討論職缺.
