@@ -32,5 +32,8 @@ A curated list of amazingly awesome job resources and shiny things.
 * [What Happens](https://github.com/skyline75489/what-happens-when-zh_CN)
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
 
+## Mock Interview
+* https://www.pramp.com/
+
 ## Tools
 * [求職天眼通](https://github.com/abalone0204/Clairvoyance) - Chrome Extension 讓你可以透過瀏覽器直接討論職缺.
