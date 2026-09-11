@@ -37,3 +37,4 @@ A curated list of amazingly awesome job resources and shiny things.
 
 ## Tools
 * [求職天眼通](https://github.com/abalone0204/Clairvoyance) - Chrome Extension 讓你可以透過瀏覽器直接討論職缺.
+* [ResumeAI](https://withresumeai.com/ats-checker) - Free ATS resume checker (3/day anonymous, 10/day free account) + State of ATS 2026 (738/704; Workday 37.9%).
